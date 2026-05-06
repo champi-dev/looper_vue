@@ -3,8 +3,6 @@
 > A browser drum machine. Click squares, hear beats. Open a tab — done.
 > **Vue 3 · TypeScript · Tone.js · Tailwind.**
 
-![StepLab screenshot](./screenshot.png)
-
 ---
 
 ## What is it?
